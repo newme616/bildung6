@@ -3,6 +3,7 @@ title: Frag Das PDF
 type: "tool"
 description: FragDasPDF ist ein auf künstlicher Intelligenz basierender KI Chat, Writer und Recherche Tool.
 id: "fragdaspdf"
+image: "tools/fragdaspdf.png"
 tags:
 - "Freemium"
 - "Text"
